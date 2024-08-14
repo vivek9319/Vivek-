@@ -1,0 +1,2 @@
+This is our first git class.
+Okay we are learning git
